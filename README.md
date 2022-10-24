@@ -7,7 +7,7 @@ Mídias
 Tabelas
 Além de outros recursos falados nas aulas.
 
-Este site deve conter o seguinte menu de navegação:
+Este site contem o seguinte menu de navegação:
 Página Principal
 Sobre a clínica
 Horário de Atendimento
