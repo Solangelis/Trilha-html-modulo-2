@@ -66,6 +66,7 @@ table tbody tr:hover td {
 form{
    display:flex;
    flex-direction: column;
+   background-color: #7AD6FF;
    
  
    align-items: center;
